@@ -1,6 +1,13 @@
-# Hi, I'm Zini
+<div align="center">
+
+# Hi, I'm Zini 👋
 
 I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concentration. I like understanding how LLMs work. More about me at [zinichakraborty.com](https://zinichakraborty.com/).
+
+![Zini's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinichakraborty&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinichakraborty&layout=compact&hide_border=true)
+
+</div>
 
 ## Open Source
 
@@ -11,12 +18,12 @@ I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concen
 
 ## Projects
 
-- **[EHRudite](https://github.com/iiisong/ehrudite)**: turns natural-language questions into validated MySQL queries over electronic health records (Hacklytics 2024; GPT-4o + sentence transformers)
-- **[reModel](https://github.com/iiisong/reModel)**: AI interior design assistant that segments furniture in room photos (YOLOv8 + SAM) and generates redesigns (Hacklytics 2025)
-- **[VetAI](https://github.com/janprasad/HealthDetection)**: hands-free multimodal diagnostic assistant for veterinarians and pet owners: voice queries (Whisper), image diagnosis (Claude Sonnet), and research citations (TreeHacks 2026)
-- **[Recflix](https://github.com/zinichakraborty/recflix)**: movie recommendation engine with Milvus vector search, Redis caching, and Supabase auth over MovieLens, with a Streamlit UI
 - **[LLM Story Ordering](https://github.com/zinichakraborty/llm-story-ordering)**: evaluates LLM temporal reasoning by reconstructing shuffled stories, scored with Kendall's Tau and embedding probes
 - **[Machine Unlearning for Art](https://github.com/amtang325/DL-final-project)**: unlearns Salvador Dalí from a WikiArt ResNet classifier via adversarial and loss-function approaches
+- **[VetAI](https://github.com/janprasad/HealthDetection)**: hands-free multimodal diagnostic assistant for veterinarians and pet owners: voice queries (Whisper), image diagnosis (Claude Sonnet), and research citations (TreeHacks 2026)
+- **[EHRudite](https://github.com/iiisong/ehrudite)**: turns natural-language questions into validated MySQL queries over electronic health records with GPT-4o + sentence transformers (Hacklytics 2024)
+- **[reModel](https://github.com/iiisong/reModel)**: AI interior design assistant that segments furniture in room photos (YOLOv8 + SAM) and generates redesigns (Hacklytics 2025)
+- **[Recflix](https://github.com/zinichakraborty/recflix)**: movie recommendation engine with Milvus vector search, Redis caching, and Supabase auth over MovieLens, with a Streamlit UI
 - **[BoG Dev Bootcamp F23](https://github.com/BoG-Dev-Bootcamp-F23)**: developer bootcamp org where students build a mini Pokédex and a team-based animal training app
 
 ## Interests
