@@ -1,11 +1,8 @@
 <div align="center">
 
-# Hi, I'm Zini 👋
+# Hi, I'm Zini
 
 I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concentration. I like understanding how LLMs work. More about me at [zinichakraborty.com](https://zinichakraborty.com/).
-
-![Zini's GitHub stats](https://github-readme-stats.vercel.app/api?username=zinichakraborty&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinichakraborty&layout=compact&hide_border=true)
 
 </div>
 
@@ -28,4 +25,4 @@ I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concen
 
 ## Interests
 
-Mechanistic interpretability | model efficiency & quantization | human–LLM perception alignment | diffusion language models
+mechanistic interpretability | model efficiency & quantization | human–LLM alignment | diffusion language models
