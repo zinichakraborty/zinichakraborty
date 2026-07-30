@@ -6,7 +6,7 @@ I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concen
 
 </div>
 
-## Open Source
+## Open Source Contributions
 
 - **[TransformerLens](https://github.com/TransformerLensOrg/TransformerLens/pull/1495)**: added support for interpreting Google's T5Gemma2
 - **[Pruna AI](https://github.com/PrunaAI/pruna/pull/711)**: benchmarking tutorial for Stable Diffusion optimizations
