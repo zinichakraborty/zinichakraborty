@@ -19,8 +19,8 @@ I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concen
 - **[Machine Unlearning for Art](https://github.com/amtang325/DL-final-project)**: unlearns Salvador Dalí from a WikiArt classifier via adversarial and loss-function approaches
 - **[VetAI](https://github.com/janprasad/HealthDetection)**: hands-free multimodal diagnostic assistant for veterinarians and pet owners: voice queries (Whisper), image diagnosis (Claude Sonnet), and research citations (TreeHacks 2026)
 - **[EHRudite](https://github.com/iiisong/ehrudite)**: turns natural-language questions into validated MySQL queries over electronic health records with GPT-4o + sentence transformers (Hacklytics 2024)
-- **[reModel](https://github.com/iiisong/reModel)**: AI interior design assistant that segments furniture in room photos (YOLOv8 + SAM) and generates redesigns (Hacklytics 2025)
-- **[Recflix](https://github.com/zinichakraborty/recflix)**: movie recommendation engine with Milvus vector search, Redis caching, and Supabase auth over MovieLens, with a Streamlit UI
+- **[reModel](https://github.com/iiisong/reModel)**: AI interior design assistant that segments furniture in photos (YOLOv8 + SAM) and generates redesigns (Hacklytics 2025)
+- **[Recflix](https://github.com/zinichakraborty/recflix)**: movie recommendation engine with Milvus vector search, Redis caching, and Supabase auth over MovieLens, with Streamlit UI
 - **[BoG Dev Bootcamp F23](https://github.com/BoG-Dev-Bootcamp-F23)**: developer bootcamp org where students build a mini Pokédex and a team-based animal training app
 
 ## Interests
