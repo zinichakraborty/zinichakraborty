@@ -9,9 +9,9 @@ I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concen
 ## Open Source Contributions
 
 - **[TransformerLens](https://github.com/TransformerLensOrg/TransformerLens/pull/1495)**: added support for interpreting Google's T5Gemma2
-- **[Pruna AI](https://github.com/PrunaAI/pruna/pull/711)**: benchmarking tutorial for Stable Diffusion optimizations
 - **[Bits of Good](https://github.com/GTBitsOfGood/juno)**: co-implemented the SDK and file services
 - **[Heart of Passion (Non-Profit)](https://github.com/GTBitsOfGood/heart-of-passion)**: co-built a donation and event coordination platform
+- **[Pruna AI](https://github.com/PrunaAI/pruna/pull/711)**: benchmarking tutorial for Stable Diffusion optimizations
 
 ## Projects
 
