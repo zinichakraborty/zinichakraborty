@@ -25,4 +25,4 @@ I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concen
 
 ## Interests
 
-mechanistic interpretability | model efficiency & quantization | human–LLM alignment | diffusion language models
+mechanistic interpretability | model efficiency & quantization | human–LLM alignment | diffusion models
