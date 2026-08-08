@@ -2,7 +2,7 @@
 
 # Hi, I'm Zini
 
-I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concentration. I like understanding how LLMs work. More about me at [zinichakraborty.com](https://zinichakraborty.com/).
+I'm Chandreyi (Zini) Chakraborty, a Georgia Tech CS BS/MS grad with an ML concentration. I like mechanistically interpreting LLMs to improve reasoning capabilities. More about me at [zinichakraborty.com](https://zinichakraborty.com/).
 
 </div>
 
